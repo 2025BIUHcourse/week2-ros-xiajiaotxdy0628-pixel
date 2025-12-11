@@ -1,0 +1,4 @@
+{
+    "ros.distro": "noetic",
+    "cmake.sourceDirectory": "/home/huangyixuan/dtmini/week2/catkin_ws/src/beginner_tutorials"
+}
